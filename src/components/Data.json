@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "author": "ubaid ullah",
+      "description": "Learn the basics of JavaScript, including variables, functions, and loops.",
+      "image": "https://example.com/images/javascript.png"
+    },
+    {
+      "id": 2,
+      "title": "React Fundamentals",
+      "author": "ubaid ullah",
+      "description": "A comprehensive guide to getting started with React and building dynamic UIs.",
+      "image": "https://example.com/images/react.png"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Node.js",
+      "author": "ubaid ullah",
+      "description": "Explore advanced concepts in Node.js, including performance optimization and clustering.",
+      "image": "https://example.com/images/nodejs.png"
+    },
+    {
+      "id": 4,
+      "title": "CSS Flexbox and Grid",
+      "author": "ubaid ullah",
+      "description": "Master layout techniques using CSS Flexbox and Grid for responsive web design.",
+      "image": "https://example.com/images/css.png"
+    },
+    {
+      "id": 5,
+      "title": "Fullstack Development",
+      "author": "ubaid ullah",
+      "description": "Build a fullstack application using MongoDB, Express, React, and Node.js.",
+      "image": "https://example.com/images/mern.png"
+    }
+  ]
+  
